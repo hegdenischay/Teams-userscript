@@ -7,6 +7,11 @@ Therefore, I decided to make a userscript that does that for me.
 
 Install this using your favourite userscript manager and it should work.
 
+# How to Install
+
+- This was coded for [Violentmonkey](https://violentmonkey.github.io/), but it should also be compatible with [Tampermonkey](https://www.tampermonkey.net/).
+- Install either of the userscript managers above, and then [Install](https://github.com/hegdenischay/Teams-userscript/raw/master/teams-keyboard.user.js).
+
 # Current Features
 
 - Press 'f' or 'F' to enter full screen mode.
