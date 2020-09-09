@@ -9,4 +9,6 @@ Install this using your favourite userscript manager and it should work.
 
 # Current Features
 
-- Press 'f' to enter full screen mode.
+- Press 'f' or 'F' to enter full screen mode.
+- Press 'm' or 'M' to toggle the microphone.
+- Press 'h' or 'H' to hang up.
