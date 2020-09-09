@@ -30,3 +30,8 @@ document.addEventListener('keyup', (event) => {
     if (event.key == 'h' || event.key == 'H') {
         document.getElementsByTagName('button')['hangup-button'].click();
     }});
+
+document.addEventListener('keyup', (event) => {
+    if (event.key == 'v' || event.key == 'V') {
+        document.getElementsByTagName('button')['video-button'].click();
+    }});
