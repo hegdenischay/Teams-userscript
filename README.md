@@ -14,7 +14,7 @@ Install this using your favourite userscript manager and it should work.
 
 # Current Features
 
-- Press 'f' or 'F' to enter full screen mode.
-- Press 'm' or 'M' to toggle the microphone.
-- Press 'v' or 'V' to toggle video.
-- Press 'h' or 'H' to hang up.
+- Press 'Ctrl+Shift+f' or 'Ctrl+Shift+F' to enter full screen mode.
+- Press 'Ctrl+Shift+m' or 'Ctrl+Shift+M' to toggle the microphone.
+- Press 'Ctrl+Shift+v' or 'Ctrl+Shift+V' to toggle video.
+- Press 'Ctrl+Shift+h' or 'Ctrl+Shift+H' to hang up.
