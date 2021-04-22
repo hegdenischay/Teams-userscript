@@ -27,13 +27,6 @@ document.addEventListener('keyup', (event) => {
     }}});
 
 document.addEventListener('keyup', (event) => {
-    if ((event.key == 'm' || event.key == 'M') && (event.shiftKey === true && event.ctrlKey === true)) {
-    work = document.getElementsByClassName("call-screen-main")['length'];
-      if(work === 1){
-        document.getElementsByTagName('button')['microphone-button'].click();
-    }}});
-
-document.addEventListener('keyup', (event) => {
     if ((event.key == 'h' || event.key == 'H') && (event.shiftKey === true && event.ctrlKey === true)) {
     work = document.getElementsByClassName("call-screen-main")['length'];
       if(work === 1){
